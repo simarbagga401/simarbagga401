@@ -10,7 +10,7 @@
 <br>
 <img align="right" alt="Coding" width="371" src="https://valesh.dev/images/coder.gif">
 
-- 👨🏼‍🎓 Studying Mumbai University (BSC.CS)
+- 👨🏼‍🎓 Studying At Mumbai University (BSC.CS)
 
 - 🔭 As a self-driven individual passionate about coding, I've dedicated myself to learning software development. I'm excited about the opportunities that lie ahead in the tech industry.
 
