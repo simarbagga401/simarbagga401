@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/simarbagga401](https://github.com/simarbagga401)
 
-- 💬 Personal Portfolio: simarbagga.vercel.app, other than code i do beatboxing, play ukulele, electric guitar, yoga, meditation, philosophy, psychology.
+- 💬 Personal Portfolio: https://simarbagga.vercel.app, other than code i do beatboxing, play ukulele, electric guitar, yoga, meditation, philosophy, psychology.
 
 - 📫 How to reach me **<simarbagga401@gmail.com>**
 
