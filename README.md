@@ -1,4 +1,4 @@
-![Background](https://github.com/rxhul18/rxhul18/assets/99045557/18b4c261-0a1f-46ed-ac3d-8a9ca36f8f97)
+![potrait](https://github.com/user-attachments/assets/a4bd977a-d192-4748-962a-21979ae7d280)
 <h1 align="center">Hi 👋, I'm Simar Bagga</h1>
 <h3 align="center">Doing Web Development for 5 years | Startup Enthusiast</h3>
 <!-- <table align="center">
