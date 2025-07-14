@@ -1,4 +1,3 @@
-![potraittt](https://github.com/user-attachments/assets/19db525b-f51c-4f97-861d-80b48c1f85b0)
 <h1 align="center">Hi 👋, I'm Simar Bagga</h1>
 <h3 align="center">Doing Web Development for 5 years | Startup Enthusiast</h3>
 <!-- <table align="center">
